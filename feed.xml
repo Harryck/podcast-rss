@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>投资播客 · YouTube Daily Digest</title>
+    <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://example.com</link>
+    <language>zh-cn</language>
+    <description><![CDATA[基于 YouTube Morning Digest 的双人语音播客，覆盖沃尔玛、期权、Yardeni、债券与 A 股。]]></description>
+    <itunes:subtitle>双人语音解读全球市场</itunes:subtitle>
+    <itunes:author>晓宇 &amp; 志远</itunes:author>
+    <itunes:email>podcast@example.com</itunes:email>
+    <itunes:image href="https://example.com/cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>晓宇 &amp; 志远</itunes:name>
+      <itunes:email>podcast@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Investing"><itunes:category text="Business"/></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:keywords>投资,美股,播客,财经,市场,期权,债券</itunes:keywords>
+    <item>
+        <title>投资播客 Vol.1 · YouTube Daily Digest (2026-10-05)</title>
+        <description><![CDATA[基于 YouTube Morning Digest 的双人语音播客：Walmart护城河、Rule#1期权生息、Yardeni标普一万点、Bianco债券转向、解读君A股。]]></description>
+        <content:encoded><![CDATA[本期双人对话梳理 5 条核心视频：①Walmart 复合体护城河与负营运资本；②Rule#1 期权生息(bull put spread)与席勒PE 42年最高；③Yardeni 标普一万点(FIMO盈利动能)；④Bianco 债券转向与修正久期；⑤解读君 A 股板块轮动与杠杆警示。]]></content:encoded>
+        <pubDate>Wed, 07 Oct 2026 08:39:40 +0000</pubDate>
+        <enclosure url="https://example.com/podcast/podcast_2026-10-05.wav" type="audio/wav" length="13038764"/>
+        <guid isPermaLink="false">https://example.com/podcast/podcast_2026-10-05.wav</guid>
+        <itunes:duration>407</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+
+    </item>
+  </channel>
+</rss>
