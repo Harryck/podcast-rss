@@ -12,11 +12,11 @@
     <description><![CDATA[基于 YouTube Morning Digest 的双人语音播客，覆盖沃尔玛、期权、Yardeni、债券与 A 股。]]></description>
     <itunes:subtitle>双人语音解读全球市场</itunes:subtitle>
     <itunes:author>晓宇 &amp; 志远</itunes:author>
-    <itunes:email>podcast@example.com</itunes:email>
+    <itunes:email>harry19900711@gmail.com</itunes:email>
     <itunes:image href="https://harryck.github.io/podcast-rss/cover.jpg"/>
     <itunes:owner>
       <itunes:name>晓宇 &amp; 志远</itunes:name>
-      <itunes:email>podcast@example.com</itunes:email>
+      <itunes:email>harry19900711@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Investing"><itunes:category text="Business"/></itunes:category>
     <itunes:explicit>no</itunes:explicit>
