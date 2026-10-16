@@ -9,7 +9,7 @@
     <atom:link href="https://harryck.github.io/podcast-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://harryck.github.io/podcast-rss</link>
     <language>zh-cn</language>
-    <description><![CDATA[双人语音播客，由晓宇与志远每天梳理全球市场要闻——覆盖美股、利率、宏观、半导体与 A 股，把当天信息量最大的几条视频聊透。内容仅为信息梳理，不构成投资建议。]]></description>
+    <description><![CDATA[双人语音播客，由晓宇与志远每天梳理全球市场要闻——覆盖美股、利率、宏观、半导体与 A 股，把当天最值得聊的几条讲透。内容仅为信息梳理，不构成投资建议。]]></description>
     <itunes:subtitle>双人语音解读全球市场</itunes:subtitle>
     <itunes:author>投资对谈</itunes:author>
     <itunes:email>harry19900711@gmail.com</itunes:email>
@@ -24,8 +24,8 @@
     <itunes:keywords>投资,美股,播客,财经,市场,期权,债券</itunes:keywords>
     <item>
         <title>Vol.4 · 投资对谈 Daily Digest · 10月16日</title>
-        <description><![CDATA[基于 YouTube Morning Digest 的双人语音播客：保尔森说最大的风险是自满、李录讲价值投资六原则与AI红线、晨星说折价只靠那七只、景顺六万亿地产信贷不碰数据中心、美光跌两成后到底能不能抄。]]></description>
-        <content:encoded><![CDATA[基于 YouTube Morning Digest 的双人语音播客：保尔森说最大的风险是自满、李录讲价值投资六原则与AI红线、晨星说折价只靠那七只、景顺六万亿地产信贷不碰数据中心、美光跌两成后到底能不能抄。]]></content:encoded>
+        <description><![CDATA[本期双人对话梳理：保尔森说最大的风险是自满、李录讲价值投资六原则与AI红线、晨星说折价只靠那七只、景顺六万亿地产信贷不碰数据中心、美光跌两成后到底能不能抄。]]></description>
+        <content:encoded><![CDATA[本期双人对话梳理：保尔森说最大的风险是自满、李录讲价值投资六原则与AI红线、晨星说折价只靠那七只、景顺六万亿地产信贷不碰数据中心、美光跌两成后到底能不能抄。]]></content:encoded>
         <pubDate>Thu, 15 Oct 2026 23:10:57 +0000</pubDate>
         <enclosure url="https://harryck.github.io/podcast-rss/podcast_2026-10-16.mp3" type="audio/mpeg" length="3817728"/>
         <guid isPermaLink="false">https://harryck.github.io/podcast-rss/podcast_2026-10-16.mp3</guid>
@@ -35,8 +35,8 @@
     </item>
     <item>
         <title>Vol.3 · 投资对谈 Daily Digest · 10月15日</title>
-        <description><![CDATA[基于 YouTube Morning Digest 的双人语音播客：十万亿美元AI基建的钱从哪来、Ben Hunt说AI已大到不能倒、高利率比零利率更糟且房地产跌到危机底、九月CPI粘性通胀与美联储重启加息、席勒PE四十点七下的非美与韩国洼地。]]></description>
-        <content:encoded><![CDATA[基于 YouTube Morning Digest 的双人语音播客：十万亿美元AI基建的钱从哪来、Ben Hunt说AI已大到不能倒、高利率比零利率更糟且房地产跌到危机底、九月CPI粘性通胀与美联储重启加息、席勒PE四十点七下的非美与韩国洼地。]]></content:encoded>
+        <description><![CDATA[本期双人对话梳理：十万亿美元AI基建的钱从哪来、Ben Hunt说AI已大到不能倒、高利率比零利率更糟且房地产跌到危机底、九月CPI粘性通胀与美联储重启加息、席勒PE四十点七下的非美与韩国洼地。]]></description>
+        <content:encoded><![CDATA[本期双人对话梳理：十万亿美元AI基建的钱从哪来、Ben Hunt说AI已大到不能倒、高利率比零利率更糟且房地产跌到危机底、九月CPI粘性通胀与美联储重启加息、席勒PE四十点七下的非美与韩国洼地。]]></content:encoded>
         <pubDate>Wed, 14 Oct 2026 23:09:50 +0000</pubDate>
         <enclosure url="https://harryck.github.io/podcast-rss/podcast_2026-10-15.mp3" type="audio/mpeg" length="4679424"/>
         <guid isPermaLink="false">https://harryck.github.io/podcast-rss/podcast_2026-10-15.mp3</guid>
@@ -46,8 +46,8 @@
     </item>
     <item>
         <title>Vol.2 · 投资对谈 Daily Digest · 10月13日</title>
-        <description><![CDATA[基于 YouTube Morning Digest 的双人语音播客：Bianco 六年来首次看多债券、标普新高但七成个股跌破五十日均线、中性利率抬升倒逼加息、大摩闭门会看中国秋季与化债退坡、硅谷风投谈递归自我改进。]]></description>
-        <content:encoded><![CDATA[基于 YouTube Morning Digest 的双人语音播客：Bianco 六年来首次看多债券、标普新高但七成个股跌破五十日均线、中性利率抬升倒逼加息、大摩闭门会看中国秋季与化债退坡、硅谷风投谈递归自我改进。]]></content:encoded>
+        <description><![CDATA[本期双人对话梳理：Bianco 六年来首次看多债券、标普新高但七成个股跌破五十日均线、中性利率抬升倒逼加息、大摩闭门会看中国秋季与化债退坡、硅谷风投谈递归自我改进。]]></description>
+        <content:encoded><![CDATA[本期双人对话梳理：Bianco 六年来首次看多债券、标普新高但七成个股跌破五十日均线、中性利率抬升倒逼加息、大摩闭门会看中国秋季与化债退坡、硅谷风投谈递归自我改进。]]></content:encoded>
         <pubDate>Tue, 13 Oct 2026 16:39:44 +0000</pubDate>
         <enclosure url="https://harryck.github.io/podcast-rss/podcast_2026-10-13.mp3" type="audio/mpeg" length="3239424"/>
         <guid isPermaLink="false">https://harryck.github.io/podcast-rss/podcast_2026-10-13.mp3</guid>
@@ -57,7 +57,7 @@
     </item>
     <item>
         <title>Vol.1 · 投资对谈 Daily Digest · 10月5日</title>
-        <description><![CDATA[基于 YouTube Morning Digest 的双人语音播客：Walmart护城河、Rule#1期权生息、Yardeni标普一万点、Bianco债券转向、解读君A股。]]></description>
+        <description><![CDATA[本期双人对话梳理：Walmart护城河、Rule#1期权生息、Yardeni标普一万点、Bianco债券转向、解读君A股。]]></description>
         <content:encoded><![CDATA[本期双人对话梳理 5 条核心视频：①Walmart 复合体护城河与负营运资本；②Rule#1 期权生息(bull put spread)与席勒PE 42年最高；③Yardeni 标普一万点(FIMO盈利动能)；④Bianco 债券转向与修正久期；⑤解读君 A 股板块轮动与杠杆警示。]]></content:encoded>
         <pubDate>Wed, 07 Oct 2026 08:39:40 +0000</pubDate>
         <enclosure url="https://harryck.github.io/podcast-rss/podcast_2026-10-05.mp3" type="audio/mpeg" length="3260448"/>
